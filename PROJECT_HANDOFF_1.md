@@ -39,9 +39,9 @@ dependencies. Just open `index.html` in a browser.
 
 ## Known placeholders that still need real content
 - [ ] Real headshot to replace `.photo-placeholder` div (swap for an `<img>`)
-- [ ] LinkedIn URL (currently `linkedin.com/in/your-handle`)
-- [ ] Email address (currently `hello@example.com`)
-- [ ] Substack URL (currently `your-substack.substack.com`)
+- [x] LinkedIn URL — `https://www.linkedin.com/in/lcking`
+- [x] Email address — `lindsayking223@gmail.com`
+- [x] Substack URL — `https://lindsaycking.substack.com`
 - [ ] Real project links on the 4 work cards (currently `href="#"`)
 - [ ] Confirm/replace sample copy in About and card descriptions with anything
       more specific Lindsay wants surfaced
