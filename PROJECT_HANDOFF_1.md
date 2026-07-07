@@ -38,7 +38,7 @@ dependencies. Just open `index.html` in a browser.
    (no form, by request)
 
 ## Known placeholders that still need real content
-- [ ] Real headshot to replace `.photo-placeholder` div (swap for an `<img>`)
+- [x] Real headshot — `headshot.jpg` (USC Class of 2024 grad photo)
 - [x] LinkedIn URL — `https://www.linkedin.com/in/lcking`
 - [x] Email address — `lindsayking223@gmail.com`
 - [x] Substack URL — `https://lindsaycking.substack.com`

@@ -185,22 +185,13 @@ h1, h2, h3 { font-family: var(--font-serif); margin: 0; }
 .photo-placeholder {
   width: 260px;
   height: 320px;
+  object-fit: cover;
+  object-position: top center;
   background: var(--pink);
   border: 2px solid var(--ink);
   border-radius: 10px;
   box-shadow: var(--shadow-offset);
   transform: rotate(-4deg);
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  text-align: center;
-}
-.photo-placeholder-text {
-  font-family: var(--font-serif);
-  font-style: italic;
-  color: var(--ink-soft);
-  font-size: 1.1rem;
-  line-height: 1.4;
 }
 .washi-tape {
   position: absolute;
